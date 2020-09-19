@@ -1,6 +1,6 @@
 ## Airbnb clone
 
-Messenger clone using React, Firebase and Material-UI. 🔥
+Airbnb clone using React, Firebase and Material-UI. 🔥
 
 Demo: https://airbnb-clone-4f85f.web.app/
 
