@@ -1,5 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Demo
 
 Demo link: https://airbnb-clone-4f85f.web.app/
